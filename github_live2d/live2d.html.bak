@@ -11,14 +11,7 @@
 		L2Dwidget.init({
 			"model": {
 				//jsonpath控制显示模型
-				// jsonPath: "https://raw.githubusercontent.com/parker0523/res/master/ots-14/model.json",
-				
-				jsonPath: "gun/"+name+"/normal/model.json",
-				// jsonPath: "gun/"+name+"/destroy/model.json",
-				// jsonPath: "gun/"+name+"/model.json",
-				// jsonPath: "gun/"+name+"/normal/95normal.json",	//紫色头巾黑丝
-				// jsonPath: "gun/"+name+"/destroy/95destroy.json",//紫色头巾黑丝-destroy版
-				
+				jsonPath: "https://raw.githubusercontent.com/cxcxrs/live2d/main/github_live2d/kp31_310/normal/model.json",	
 			},
 			"display": {
 				"position": "right", //看板娘的表现位置
@@ -38,6 +31,5 @@
 	</script>
 </head>
 <body>
-<!-- https://www.cnblogs.com/lcyfrog/p/11725534.html -->
 </body>
 </html>
